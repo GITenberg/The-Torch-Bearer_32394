@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35822'
     url: http://www.gutenberg.org/2009/agents/35822
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32394#The-Torch-Bearer
 gutenberg_issued: '2010-05-16'
 gutenberg_type: Text
 identifiers:
